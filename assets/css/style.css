@@ -1,0 +1,23 @@
+.loader img {
+    width: 100px;
+}
+
+.loader {
+    display: none;
+}
+
+#weather-area {
+    width: 100%;
+    height: 300px;
+    padding: 30px 10px;
+}
+
+.map-marker {
+    position: absolute;
+    width: 50px;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -25px;
+    display: none;
+}
